@@ -5,6 +5,8 @@ This Power BI project provides an in-depth statistical analysis of the FIFA Worl
 
 **Note**: Data for two World Cup tournaments is missing due to the World War II period (1942 and 1946), which is consistent with the historical record where these tournaments were not held.
 
+![Screen shot](https://github.com/bhagwatakshay15/WorldCup-Stats-PowerBI/blob/main/wc-dashboard.jpg)
+
 ## ✨ Features  
 The dashboard provides a rich set of interactive visuals to explore World Cup history:
 
